@@ -3,8 +3,6 @@
 
 # PROGRAMMER: Ruth Dohrmann
 # PROGRAM: greedy.py
-# DUE DATE: 10/23/23
-# INSTRUCTOR: Dr. Joshua Phillips
 # Description: This program uses greedy local search (gradient ascent) to attempt to obtain the maximum
 # value of a Sum of Gaussians function.
 
