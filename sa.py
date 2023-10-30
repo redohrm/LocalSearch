@@ -3,8 +3,6 @@
 
 # PROGRAMMER: Ruth Dohrmann
 # PROGRAM: sa.py
-# DUE DATE: 10/23/23
-# INSTRUCTOR: Dr. Joshua Phillips
 # Description: This program uses simulated annealing to attempt to obtain the maximum value of the
 # Sum of Gaussians (SoG) function.
 
